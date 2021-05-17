@@ -1,6 +1,6 @@
 # Hello World using JMS
 
-A simple test project for demonstrating a simple JMS pubs-subs to a Queue. This app is deployed on top of JBoss EAP 7.3 with JDK 8
+A simple test project for demonstrating a simple JMS pubs-subs to a Queue. This app is deployed on top of JBoss EAP 7.3 with JDK 8, and Red Hat AMQ.
 
 ## How to test
 
